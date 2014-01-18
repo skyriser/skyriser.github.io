@@ -2,4 +2,4 @@
 
 ## What is this?
 
-`@skyriser` potal page.
+`@skyriser` portal page.
