@@ -245,14 +245,17 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.8.2)
+    webrick (1.8.1)
 
 PLATFORMS
   x86_64-darwin-22
 
 DEPENDENCIES
   github-pages (~> 228)
+  jekyll
   jekyll-feed (~> 0.12)
   minima (~> 2.5)
+  webrick
 
 BUNDLED WITH
    2.4.10
