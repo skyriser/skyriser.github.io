@@ -2,7 +2,7 @@
 layout: default
 ---
 
-@skyriser Portal 及び 同人音楽サークル "Levo Lution" Official Web
+@skyriser portal
 
 # About @skyriser
 
@@ -10,7 +10,7 @@ a.k.a. "Lix", "skyriser" or "すかい"
 
 - Keywords
   - Full-stacked Web Developer, Remote Worker (Tokyo / Nagano)
-  - Dojin Music (Remixer, Arranger, Composer, etc.) as "Levo Lution"
+  - Jp Music Circle (Remixer, Arranger, Composer, etc.) as "Levo Lution"
   - Photographer, Crimber, Gamer
 
 # Social
@@ -25,11 +25,8 @@ a.k.a. "Lix", "skyriser" or "すかい"
 
 各種SNSアカウント
 
-- [Twitter - @skyriser](https://twitter.com/skyriser)
-- [misskey.io - @skyriser](https://misskey.io/@skyriser)
-- [Threads - @skyriser](https://www.threads.net/@skyriser)
-- [mstdn.jp - @skyriser](https://mstdn.jp/@skyriser)
-- [Discord - @tranceshift](https://discord.com/)
+- [bsky - @skyriser](https://bsky.app/profile/skyriser.bsky.social)
+- [SNS what was called "twitter" - @skyriser](https://x.com/skyriser)
 
 ### Tech
 
