@@ -2,8 +2,6 @@
 layout: default
 ---
 
-@skyriser portal
-
 # About @skyriser
 
 a.k.a. "Lix", "skyriser" or "すかい"
