@@ -7,9 +7,18 @@ layout: default
 a.k.a. "Lix", "skyriser" or "すかい"
 
 - Keywords
+  - Music producer / Arranger as "Levo Lution"
   - Full-stacked Web Developer, Remote Worker (Tokyo / Nagano)
-  - Jp Music Circle (Remixer, Arranger, Composer, etc.) as "Levo Lution"
   - Photographer, Crimber, Gamer
+
+# Music
+
+- [Youtube](https://www.youtube.com/@skyriser)
+  - 動画作品とか
+- [NicoNico](https://www.nicovideo.jp/user/289582)
+  - ボカロとか
+- [SoundCloud](https://soundcloud.com/skyriser)
+  - 実験作品とか
 
 # Social
 
@@ -33,14 +42,3 @@ a.k.a. "Lix", "skyriser" or "すかい"
 ### Etc
 
 - [Wishlist (Amazon)](http://www.amazon.co.jp/registry/wishlist/WALAFICIEIZE)
-
-# Music
-
-過去にやっていたもの
-
-- [Youtube](https://www.youtube.com/channel/UCsMDEQsQcAf9ov4uKSi-wCA)
-  - 動画作品とか
-- [SoundCloud](https://soundcloud.com/skyriser)
-  - 実験作品とか
-- [BOOTH](https://skyriser.booth.pm/)
-  - Lvlt-0016 Face E.P.をちょっとだけ
